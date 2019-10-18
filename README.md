@@ -1,2 +1,4 @@
 # latihan2
-kkkkkk
+kkkkkkjijijijijijijij
+jijijijijijiji
+nnnnu
