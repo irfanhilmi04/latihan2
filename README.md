@@ -4,7 +4,7 @@
 . operator merupakan simbol-simbol yang digunakan untuk melakukan operasi tertentu
 . operator adalah simbol atau tanda yang jika diletakkan pada dua buah operand (data) dapat menghasilkan sebuah hasil, operator berupa simbol yang digunakan untuk menyusun suatu ekspresi dengan melibatkan satu atau beberapa operand
 
-### Lab 2
+### Langkah langkah
 pada lab 2 kita mencoba untuk mengoprasikan operator, contoh :
 
 langkah 1 dan 2 ambil input untuk mengisi nilai
